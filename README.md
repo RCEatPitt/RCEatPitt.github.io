@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# RCE@Pitt
 
-You can use the [editor on GitHub](https://github.com/RCEatPitt/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is the home of Research Computing Education at the University of Pittsburgh an initiative of the [School of Computing and Information](http://sci.pitt.edu) focused on training everyone on campus the joys of computation.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Offerings
 
-# Header 1
-## Header 2
-### Header 3
+RCE@Pitt will be offering an introductory workshop series, [Data Basics](), in Fall of 2018. This 8 week workshop series will cover the following topics:
 
-- Bulleted
-- List
+1. Unix Shell, Jupyter, file management, markdown, Git/Github
+2. Data Centric Python Part 1
+3. Data Centric Python Part 2
+4. Data Processing with Python and Pandas Part 1
+5. Data Processing with Python and Pandas part 2
+6. Relational Databases and SQL Part 1
+7. Relational Databases and SQL Part 2
+8. Data Visualization with Python
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RCEatPitt/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
