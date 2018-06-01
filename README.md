@@ -1,4 +1,4 @@
-# RCE@Pitt
+# Research Computing Workshops!
 
 
 This is the home of Research Computing Education at the University of Pittsburgh an initiative of the [School of Computing and Information](http://sci.pitt.edu) focused on training everyone on campus the joys of computation.
