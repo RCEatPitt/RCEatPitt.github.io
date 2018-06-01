@@ -7,7 +7,7 @@ This is the home of Research Computing Education at the University of Pittsburgh
 
 ## Offerings
 
-RCE@Pitt will be offering an introductory workshop series, [Data Basics](), in Fall of 2018. This 8 week workshop series will cover the following topics:
+RCE@Pitt will be offering an introductory workshop series, [Data Basics](https://github.com/RCEatPitt/Data-Basics), in Fall of 2018. This 8 week workshop series will cover the following topics:
 
 1. [Unix Shell, Jupyter, Markdown](https://github.com/RCEatPitt/Data-Basics/tree/master/1-Environments)
 2. [Data Centric Python Part 1](https://github.com/RCEatPitt/Data-Basics/tree/master/2-Data-Python-1)
