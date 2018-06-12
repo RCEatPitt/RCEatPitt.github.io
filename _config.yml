@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: RCE@Pitt
-description: Research Computing Education at Pitt (RCE@Pitt) provides graduate students, postdocs, researchers, faculty, and staff the opportunity to learn the computing skills and techniques needed for data and computationally intense research.
-logo: images/logo.png
+description: Research Computing Education at Pitt (RCE@Pitt) is an initative from the School of Computing and Information to provide graduate students, postdocs, researchers, faculty, and staff the opportunity to learn the computing skills and techniques needed for data and computationally intense research.
+logo: images/sci-logo.jpg
+#logo: images/logo.png

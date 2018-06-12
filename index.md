@@ -30,10 +30,14 @@ We will begin piloting the Data Basics workshop series this summer starting in J
 5. August 7th - Data Processing with Python and Pandas part Two
 
 
+***[Please fill out this form if you are interested in attending.](https://goo.gl/forms/JbZgB00PobgTwrUo1)***
+
+
 ## Fall 2018
 
-We will be running all of Data Basics in Fall of 2018. Please sign up for our mailing list or watch this website for more information.
+We will be running all of Data Basics in Fall of 2018. Please sign up for our mailing list (below) or watch this website for more information.
 
 ## Mailing List
 
-If you are interested in attending our workshops, joining our mailing list, or just love giving out your email address ***[please fill out this form](https://goo.gl/forms/wT2F0GtUu2xVnpLC2)***. We will be sending out more details about the summer workshops soon.
+If you are interested in attending future workshops, learning more about RCE@Pitt, or just love giving out your email address ***[please fill out this form](https://goo.gl/forms/wT2F0GtUu2xVnpLC2)***.
+
