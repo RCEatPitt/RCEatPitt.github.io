@@ -36,4 +36,4 @@ We will be running all of Data Basics in Fall of 2018. Please sign up for our ma
 
 ## Mailing List
 
-If you are interested in attending our workshops, joining our mailing list, or just love giving out your email address ***[please fill out this form](https://goo.gl/forms/wT2F0GtUu2xVnpLC2)***. We will be sen
+If you are interested in attending our workshops, joining our mailing list, or just love giving out your email address ***[please fill out this form](https://goo.gl/forms/wT2F0GtUu2xVnpLC2)***. We will be send out more details about the summer workshops, including sign up, soon.
