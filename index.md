@@ -30,12 +30,12 @@ We will begin piloting the Data Basics workshop series this summer starting in J
 5. August 7th - Data Processing with Python and Pandas part Two
 
 
-***[Please fill out this form if you are interested in attending.](https://goo.gl/forms/JbZgB00PobgTwrUo1)***
+***[Click here if you are interested in attending our summer workshops.](https://goo.gl/forms/JbZgB00PobgTwrUo1)***
 
 
 ## Fall 2018
 
-We will be running all of Data Basics in Fall of 2018. Please sign up for our mailing list (below) or watch this website for more information.
+We will be running Data Basics in Fall of 2018. Please sign up for our mailing list (below) or watch this website for more information.
 
 ## Mailing List
 
