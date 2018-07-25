@@ -8,7 +8,7 @@ layout: default
 
 RCE@Pitt is developing an eight part workshop series, *Data Basics*, which will provide an introduction to many of the essential topics and techniques for research computing.
 
-Data Basics will be an 8 week workshop series will cover the following topics:
+Data Basics will be an 8 part workshop series will cover the following topics:
 
 1. Computing Environments: Unix Shell, Jupyter, Markdown
 2. Data Centric Python Part 1
@@ -19,23 +19,21 @@ Data Basics will be an 8 week workshop series will cover the following topics:
 7. Relational Databases and SQL Part Two
 8. Data Visualization with Python
 
-## Summer 2018
+## August 2018 - Two Day Data Basics
 
-We will begin piloting the Data Basics workshop series this summer starting in July. 
-
-1. Computing Environments: Unix Shell, Jupyter, Markdown
-2. Data Centric Python Part 1
-3. Data Centric Python Part 2
-4. Data Processing with Python and Pandas Part One
-5. Data Processing with Python and Pandas Part Two
+We will pilot a two day Data Basics workshop on August 21st and 22nd.
 
 
-***[Click here if you are interested in attending our summer workshops.](https://goo.gl/forms/JbZgB00PobgTwrUo1)***
+1. August 21st - Data Centric Python
+2. August 22nd - Data Processing with Python and Pandas
+
+
+***[Sign up here if you are interested in attending our August Workshop.](https://goo.gl/forms/JbZgB00PobgTwrUo1)***
 
 
 ## Fall 2018
 
-We will be running Data Basics in Fall of 2018. Please sign up for our mailing list (below) or watch this website for more information.
+We will be running an 8-week Data Basics in Fall of 2018. Please sign up for our mailing list (below) or watch this website for more information.
 
 ## Mailing List
 
