@@ -21,11 +21,11 @@ Data Basics will be an 8 part workshop series will cover the following topics:
 
 ## August 2018 - Two Day Data Basics
 
-We will pilot a two day Data Basics workshop on August 21st and 22nd.
+We will pilot a two day Data Basics workshop on August 20th and 21st.
 
 
-1. August 21st - Data Centric Python
-2. August 22nd - Data Processing with Python and Pandas
+* Monday, August 20th - Data Centric Python
+* Tuesday, August 21st - Data Processing with Python and Pandas
 
 
 ***[Sign up here if you are interested in attending our August Workshop.](https://goo.gl/forms/JbZgB00PobgTwrUo1)***
