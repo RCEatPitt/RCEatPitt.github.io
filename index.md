@@ -22,7 +22,7 @@ Data Basics will be an 8 part workshop series will cover the following topics:
 
 ## Fall 2018
 
-**Our Fall workshop series is currently FULL** Please sign up for our mailing list below to be notified about our Spring workshops.**
+**Our Fall workshop series is currently FULL.** Please sign up for our mailing list below to be notified about our Spring workshops.**
 
 ## Mailing List
 
