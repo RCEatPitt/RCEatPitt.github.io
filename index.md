@@ -19,23 +19,13 @@ Data Basics will be an 8 part workshop series will cover the following topics:
 7. Relational Databases and SQL Part Two
 8. Data Visualization with Python
 
-## August 2018 - Two Day Data Basics
-
-We will pilot a two day Data Basics workshop on August 20th and 21st.
-
-
-* Monday, August 20th - Data Centric Python
-* Tuesday, August 21st - Data Processing with Python and Pandas
-
-
-***[Sign up here if you are interested in attending our August Workshop.](https://goo.gl/forms/JbZgB00PobgTwrUo1)***
-
 
 ## Fall 2018
 
-We will be running an 8-week Data Basics in Fall of 2018. Please sign up for our mailing list (below) or watch this website for more information.
+**Our Fall workshop series is currently FULL** Please sign up for our mailing list below to be notified about our Spring workshops.**
 
 ## Mailing List
 
 If you are interested in attending future workshops, learning more about RCE@Pitt, or just love giving out your email address ***[please fill out this form](https://goo.gl/forms/wT2F0GtUu2xVnpLC2)***.
 
+If you have any questions please contact Matt Burton (mcburton@pitt.edu), Dmitriy Babichenko (dmb72@pitt.edu), or Panos Chrysanthis (panos@pitt.edu).
