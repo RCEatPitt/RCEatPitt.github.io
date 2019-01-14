@@ -26,7 +26,7 @@ We will be offering two instances of the Data Basics workshop in the spring term
 
 ### Data Basics Session One
 
-**Mondays from 5:30pm - 8:30pm**
+**Mondays from 5:00pm - 8:30pm**
 
 1. January 28th - Data Centric Python with Jupyter Part 1
 1. February 4th - Data Centric Python with Jupyter Part 2
