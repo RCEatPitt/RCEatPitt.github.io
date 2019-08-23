@@ -20,41 +20,25 @@ Data Basics will be an 8 part workshop series will cover the following topics:
 8. Relational Databases and SQL Part Two
 
 
-## Spring 2019 Workshops
+## Fall 2019 Workshop
 
-We will be offering two instances of the Data Basics workshop in the spring term.
+We will be offering one instance of the Data Basics workshop in the fall term.
 
-### Data Basics Session One
+### Data Basics
 
-**Mondays from 5:00pm - 8:30pm**
+**Wednesdays from 1:00pm - 4pm**
 
-1. January 28th - Data Centric Python with Jupyter Part 1
-1. February 4th - Data Centric Python with Jupyter Part 2
-1. February 11th - Computing Environments and the Unix Shell
-1. February 18th - Data Processing with Python and Pandas Part One
-1. February 25th - Data Processing with Python and Pandas Part Two
-1. March 4th - Data Visualization with Python
-1. No Session, Spring Break!
-1. March 18th - Relational Databases and SQL Part One
-1. March 25th - Relational Databases and SQL Part Two
+1. September 25th - Data Centric Python with Jupyter Part 1
+1. October 2nd - Data Centric Python with Jupyter Part 2
+1. October 9th - Computing Environments and the Unix Shell
+1. October 16th - Data Processing with Python and Pandas Part One
+1. October 30th - Data Processing with Python and Pandas Part Two
+1. November 6th - Data Visualization with Python
+1. November 13th - Relational Databases and SQL Part One
+1. November 20th - Relational Databases and SQL Part Two
 
-**[Click here to sign up for Data Basics Session One](https://goo.gl/forms/rUs7lW7RTsgY2rXn2)**
+**[Click here to sign up for Data Basics Fall 2019](https://forms.gle/yUnJdhYnJUjgvQzt5)**
 
-### Data Basics Session Two
-
-**Tuesdays from 1pm - 4pm**
-
-1. January 29th - Data Centric Python with Jupyter Part 1
-1. February 5th - Data Centric Python with Jupyter Part 2
-1. February 12th - Computing Environments and the Unix Shell
-1. February 19th - Data Processing with Python and Pandas Part One
-1. February 26th - Data Processing with Python and Pandas Part Two
-1. March 5th - Data Visualization with Python
-1. No Session, Spring Break!
-1. March 19th - Relational Databases and SQL Part One
-1. March 26th - Relational Databases and SQL Part Two
-
-**[Click here to sign up for Data Basics Session Two](https://goo.gl/forms/whK0uB8wNNbtbKli2)**
 
 ## Mailing List
 
